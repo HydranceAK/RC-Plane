@@ -27,6 +27,7 @@ You can pretty much use any super glue from dollarama or wallmart. Avoid hot glu
 The most critical step is the Center of Gravity . Use the marks on the wing to balance the plane by shifting the 1500mAh battery forward or backward in the fuselage. Before the first flight, verify that your ELRS link is solid and that the flight controller orientation matches the physical mounting in the fuselage. A properly balanced plane should glide level when hand-launched at half throttle.
 
 <img width="1336" height="495" alt="image" src="https://github.com/user-attachments/assets/34dd9c22-a466-49e9-a216-9f023882ca8c" />
-
+<img width="462" height="231" alt="image" src="https://github.com/user-attachments/assets/94a67ea6-a4e4-4c2a-95f7-4cd8e0405a98" />
+<img width="524" height="169" alt="image" src="https://github.com/user-attachments/assets/25ece199-b0e2-4301-b3dc-d81eae8a97f9" />
 <img width="1241" height="360" alt="image" src="https://github.com/user-attachments/assets/79a1deb2-da2f-4bca-bacd-b42c9eafec89" />
 <img width="1408" height="768" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/bb3df710-fc4d-4084-b429-4e75147ae9a2" />
