@@ -30,4 +30,5 @@ The most critical step is the Center of Gravity . Use the marks on the wing to b
 <img width="462" height="231" alt="image" src="https://github.com/user-attachments/assets/94a67ea6-a4e4-4c2a-95f7-4cd8e0405a98" />
 <img width="524" height="169" alt="image" src="https://github.com/user-attachments/assets/25ece199-b0e2-4301-b3dc-d81eae8a97f9" />
 <img width="1241" height="360" alt="image" src="https://github.com/user-attachments/assets/79a1deb2-da2f-4bca-bacd-b42c9eafec89" />
-<img width="1408" height="768" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/bb3df710-fc4d-4084-b429-4e75147ae9a2" />
+<img width="1588" height="748" alt="image" src="https://github.com/user-attachments/assets/888864f1-d4b0-488f-bb8a-3b02bb89e49a" />
+
